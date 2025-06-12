@@ -1,0 +1,172 @@
+# Information on labels
+
+
+
+## For labelling:
+
+
+S: sky
+R: road
+T: tag
+P: plant
+Curb
+B: building
+V: vehicle
+O: other
+H: human/person
+M: manhole
+Z: zebra crossing
+L: tram_line
+
+Train
+Tram
+Bus
+
+Bi: bicycle
+Bl: bike lane
+Bp: building_part
+Bw: blind_way
+Ct: curb_tile
+Ch: chimney
+Ep: electric_pole
+(es: escooter)
+Li: light_sunshine
+Lp: light_pole
+Mb: motorbicycle
+Mo: mountain
+Op: other_pole
+Pa: pavement
+Pm: post_mailbox
+Ra: railway
+Rb: road_bridge
+Ri: river
+Rp: road_part
+Rs: road_sign
+Sh: shadow
+Sl: street_light
+Sp: sky_part
+St: stairs
+Sw: stree_wire
+Tb: trash_bin
+Tc: tower_crane
+Tl: traffic_light
+Ts: tram_station
+Vp: vehicle_part
+Wp: warning_post
+Zp: zebra_crossings_part
+
+Bip: bicycle_part
+Mbp: motorbike_part
+Rgs: road_ground_sign
+Rsp: road_sign_pole
+Slp: stree_light_pole
+Tlp: traffic_light_pole
+Esp: escooter part
+
+
+
+## For classification of whole scene:
+
+
+Label groups and labels:
+
+
+Sky
+	S: sky
+	Sp: sky_part
+Plants/Vegetaton
+	P: plant
+Curb
+	Curb
+Tram_line
+	L: tram_line
+Building
+	B: building
+Means of transport
+	V: vehicle
+	Train
+	Tram
+	Bus
+	Bi: bicycle
+	Mb: motorbicycle
+Infrastructure
+	R: road
+	Bl: bike lane
+	M: manhole
+	Z: zebra crossing
+	Bw: blind_way
+	Ch: chimney
+	Ct: curb_tile
+	Ep: electric_pole
+	Lp: light_pole
+	Pa: pavement
+	Ra: railway
+	Rb: road_bridge
+	Rs: road_sign
+	Rp: road_part
+	Sl: street_light
+	St: stairs
+	Sw: stree_wire
+	Tb: trash_bin
+	Tc: tower_crane
+	Tl: traffic_light
+	Ts: tram_station
+	Wp: warnin_post
+	Zp: zebra_crossings_part
+	Rgs: road_ground_sign
+	Slp: stree_light_pole
+	Tlp: traffic_light_pole
+Other
+	T: tag
+	O: other
+	H: human/person
+	Bp: building_part
+	Pm: post_mailbox
+	Li: light_sunshine
+	Mo: mountain
+	Ri: river
+	Sh: shadow
+	Vp: vehicle_part
+	Bip: bicycle_part
+
+
+
+## For classification of ground scene:
+
+
+
+Label groups and labels:
+
+
+Infrastructure
+(Ground part)
+	Road:
+		R: road
+		Rp: road_part
+	Bl: bike lane
+	Pa: pavement
+	M: manhole
+	Ground sign:
+		Z: zebra crossing
+		Bw: blind_way
+		Rgs: road_ground_sign
+		Zp: zebra_crossings_part
+	Other:
+		Ch: chimney
+		Ep: electric_pole
+		Lp: light_pole
+		Rb: road_bridge
+		Rs: road_sign
+		Sl: street_light
+		Tl: traffic_light
+		Tc: tower_crane
+		Sw: stree_wire
+		Tb: trash_bin
+		Ts: tram_station
+		Slp: stree_light_pole
+		Tlp: traffic_light_pole
+		Ra: railway
+		St: stairs
+		Wp: warnin_post
+		Ct: curb_tile
+	Curb
