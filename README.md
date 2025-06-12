@@ -1,4 +1,4 @@
-# MTFI_short
+# AGILE Short Paper: Model_Escooter_Infrastructure
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 ## Overview
 This is the source code and summary of datasets used for the short paper, which aims to investigate and model the relationship between characteristics of traffic infrastructure and the presence of e-scooter accidents, with a focus on curb and complexity of street views.
